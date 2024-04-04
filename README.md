@@ -1,8 +1,19 @@
 ### Hi there 👋 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4UZYWS)
 
-- 🔭 I’m currently working on projects related to blockchain technology, such as, adding Trezor hardware wallet support for Solana CLI and Solana crypto games
-- 🌱 I’m currently learning blockchain technologies and tools such as: Metaplex Candy Machine, Solana, Stacks, Clarity Smart Contracts, etc
-- 👯 I’m looking to collaborate on blockchain related projects
+- 🔭 I am a versatile developer. I have practical experience and knowledge of web3, frontend, backend, AI/ML, maths in general, etc
+- 🌱 I am currently improving my web3 development skills by working on personal projects and contributing to open source software. My most recent open source software contribution is adding Trezor hardware wallet support for the Solana CLI
+  - Web3 related tools/frameworks/programming languages/services I have worked with
+    - Rust
+    - Solana
+    - Anchor
+    - Helius
+    - Switchboard
+    - Raydium
+    - OpenBook
+    - Metaplex Candy Machine
+    - Stacks
+    - Clarity Smart Contracts
+- 👯 I am currently looking for a web3 developer role and to collaborate on web3 related projects
 - ⚡ Fun fact: Loading...
 
 <!--
