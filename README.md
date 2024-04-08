@@ -6,6 +6,7 @@
     - Rust
     - Solana
     - Anchor
+    - JitoLabs
     - Helius
     - Switchboard
     - Raydium
